@@ -1,0 +1,11 @@
+.detail-btn{
+    text-align: center;
+    border: 1px solid grey;
+    padding: 10px 20px;
+    background: none;
+    color: black;
+    font-size: 15px;
+    width: 100px;
+    background-color: lightseagreen;
+    margin: 6px;
+}
